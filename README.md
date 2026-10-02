@@ -1,5 +1,3 @@
-
-
 🎮 Football Manager 2024 Trainer
 
 «⚡ A universal project with additional gameplay and visual features»
@@ -109,4 +107,5 @@ configs/
 ├── visual.cfg
 ├── player.cfg
 └── custom.cfg
+
 
